@@ -44,8 +44,8 @@ You can click the Preview link to take a look at your changes.
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonnySocorro&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tonnyScorro&theme=react)](https://git.io/streak-stats)
-  
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tonnySocorro&theme=react)](https://git.io/streak-stats)
+ 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=tonnySocorro&label=Views&color=lightgrey&style=flat-square" alt="tonnySocorro" /> 
 </p>
