@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Tonny!
 
-I'm a passionate software developer from Cuba with experience in building applications. My journey in software development has been fueled by a love for problem-solving and creating efficient, scalable solutions.
+I'm a passionate software developer  with experience in building applications. My journey in software development has been fueled by a love for problem-solving and creating efficient, scalable solutions.
 
 🌟 About Me
 
